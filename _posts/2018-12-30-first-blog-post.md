@@ -16,7 +16,7 @@ Kennt man alles von Oma und diversen Finanzblogs. Hier sind meine 2 Hauptgründe
 
 2. Ein Budget stellt nicht unbedingt sicher, dass ich wirklich mehr Geld spare: Es ist relativ einfach, mein Budget zu überschreiten und das übrige Geld auf dem Konto trotzdem auszugeben. Unvorhergesehene (un)schöne Dinge passieren, wenn z.B. jmd. spontan eine Konzertkarte für den halben Preis abzugeben hat, aber das "Spaß"-Budget leider schon ausgereizt ist. Dann liegen Ausreden à la "Ach, ist ja nur das eine Mal und es ist zum HALBEN Preis!" nicht fern. Oder das Fahrrad geht kaputt und man muss die Werkstatt bezahlen? Hups, dafür hatte ich gar kein Budget. Nun ja, passiert ist es trotzdem. Also noch ein paar Euros mehr weg. Und plötzlich habe ich am Ende des Monats gar nichts mehr gespart. Trotz hoher Motivation and Verwaltungsaufwand beim Budgetieren. Mist.
 
-Lösungsvorschlag: pay yourself first
+### Lösungsvorschlag: pay yourself first
 
 Ich wende die "pay yourself first" Methode an. Dabei betrachte ich all mein Geld als einen Topf und unterscheide nur zwischen dem gesparten und ausgegebenen Teil. Außerdem habe ich ein ambitioniertes Sparziel im Kopf. Dieses geht immer vor, ich zahle mich selbst zuerst.
 
