@@ -10,7 +10,7 @@ title: Blog
 email: hemangsk@gmail.com
 description: by Rike Zahnpasta
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://rikezahnpasta.github.io/" # the base hostname & protocol for your site
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
