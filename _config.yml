@@ -8,7 +8,7 @@
 # Site settings
 title: Geldgeflüster
 email: hemangsk@gmail.com
-description: by Rike Zahnpasta
+description: ein Ort um über Geld zu sprechen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rikezahnpasta.github.io/" # the base hostname & protocol for your site
 paginate: 5
