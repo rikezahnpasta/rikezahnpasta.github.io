@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Wie man langsam reich wird"
-date:   2018-01-27 12:09:53 +0100
+date:   2019-01-27 12:09:53 +0100
 categories: ETF, Sparen
 ---
 
-1. Wie werde ich Millionär, bis ich 60 bin?
+Heute erfahren wir, wie man langsam reich wird. 
+
+**1. Wie werde ich Millionär, bis ich 60 bin?**
 
 
 https://www.zinsen-berechnen.de/sparrechner.php
