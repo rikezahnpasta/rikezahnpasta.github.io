@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Crashkurs in finanzieller Unabhängigkeit"
-date:   2018-02-15 12:09:53 +0100
+date:   2019-02-15 12:09:53 +0100
 categories: ETF, Sparen
 ---
 

@@ -8,7 +8,7 @@ categories: ETF, Sparen
 Heute erfahren wir, wie man langsam* reich wird. 
 
 
-** Die Formel der langsamen Reichen
+### Die Formel der langsamen Reichen
 
 Langsam reich werden ist eigentlich ziemlich simple. Die Formel lautet so: verdiene mehr, gib weniger aus und investiere den Unterscheid zwischen beiden (und dann abwarten & von vorne starten)
 
@@ -36,7 +36,7 @@ Well diversified
 3,000 companies in the world vs. Enron
 
 
-** Ein Beispiel: wie werde ich Millionär, bis ich 60 bin? 
+### Ein Beispiel: wie werde ich Millionär, bis ich 60 bin? 
 
 
 
