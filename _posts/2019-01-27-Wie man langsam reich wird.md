@@ -5,16 +5,12 @@ date:   2019-01-27 12:09:53 +0100
 categories: ETF, Sparen
 ---
 
-Heute erfahren wir, wie man langsam reich wird. 
-
-**1. Wie werde ich Millionär, bis ich 60 bin?**
+Heute erfahren wir, wie man langsam* reich wird. 
 
 
-https://www.zinsen-berechnen.de/sparrechner.php
-900 EUR, 30 years, 7%
+** Die Formel der langsamen Reichen
 
-
-2. Formula: make more, spend less and invest the difference {wait & repeat}
+Langsam reich werden ist eigentlich ziemlich simple. Die Formel lautet so: verdiene mehr, gib weniger aus und investiere den Unterscheid zwischen beiden (und dann abwarten & von vorne starten)
 
 Make more
 Negotiate your wage better (bank the difference)
@@ -39,3 +35,13 @@ Low costs
 Well diversified
 3,000 companies in the world vs. Enron
 
+
+** Ein Beispiel: wie werde ich Millionär, bis ich 60 bin? 
+
+
+
+https://www.zinsen-berechnen.de/sparrechner.php
+900 EUR, 30 years, 7%
+
+
+*wenn ich 'langsam' schreibe, meine ich das Gegenteil von den berüchtigten Über-Nacht-Erfolgen à la Mark Zuckerberg, der den kleinen Sprung zum Milliardär sehr schnell schaffte, nämlich [in nur einem Jahr](https://www.businessinsider.de/how-long-it-took-entrepreneurs-to-become-billionaires-2016-2-4?r=US&IR=T) schaffte.
