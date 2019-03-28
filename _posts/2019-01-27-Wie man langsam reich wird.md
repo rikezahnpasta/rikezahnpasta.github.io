@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wie man langsam reich wird"
+title:  "So wirst du langsam reich"
 date:   2019-01-27 12:09:53 +0100
 categories: ETF, Sparen
 ---
