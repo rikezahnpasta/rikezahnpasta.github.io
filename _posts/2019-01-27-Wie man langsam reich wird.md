@@ -17,7 +17,7 @@ Langsam reich werden ist eigentlich ziemlich simple. Die Formel lautet so:
 1) verdiene mehr
 2) gib weniger aus 
 3) investiere den Unterschied klug und 
-4) warte ab und trinke Tee
+4) warte ab und trinke Tee.
 
 #### 1. Mehr verdienen
 
@@ -29,9 +29,9 @@ Anschließend solltest du deine Ausgaben kritisch hinterfragen und herausstreich
 
 #### 3. Klug investieren
 
-Zum Thema Investieren gibt es genug Bücher, um mehrere Bibliotheken damit zu füllen. 
+Zum Thema _Investieren_ gibt es genug Bücher, um mehrere Bibliotheken damit zu füllen. 
 
-Aus meiner Sicht hat eine _kluge_ Investition mindestens die folgenden Eigenschaften:
+Aus meiner Sicht hat eine kluge Investition mindestens die folgenden Eigenschaften:
 * die Kosten sind so gering wie möglich
 * die Summe der Investitionen (das Portfolio) ist möglichst stark diversifiziert 
 * der Anlagehorizont ist langfristig (>10 Jahre)
@@ -40,11 +40,11 @@ Aus meiner Sicht hat eine _kluge_ Investition mindestens die folgenden Eigenscha
 
 #### 4. abwarten und Tee trinken
 
-Wer die Schritte #1.-#3. erfolgreich absolviert hat, kann diese beliebig häufig wiederholen. Anschließend sollte sie oder er sich mit einem Tässchen Tee zurücklehnen und dem Zinseszinseffekt beim Wirken zuschauen. In 30 Jahren kann sich die Investorin auf eine sehr erstaunliche Summe Wohlstand freuen.
+Wer die Schritte #1.-#3. erfolgreich absolviert hat, kann diese beliebig häufig wiederholen. Anschließend sollte sie oder er sich mit einem Tässchen Tee zurücklehnen und dem Zinseszinseffekt beim Wirken zuschauen. In 35 Jahren kann sich die Investorin auf eine sehr erstaunliche Summe Wohlstand freuen.
 
 ### Ein Beispiel: so wirst du bis 65 Jahren Millionär/in
 
-Konkret soll das folgende Rechenbeispiel herangezogen werden.
+Konkret soll das folgende Rechenbeispiel herangezogen werden:
 
 Frau Zahnpasta ist 30 Jahre jung. Sie spart im Monat 500 Euro und legt diese bis sie 65 ist monatlich klug an. Frau Zahnpasta investiert ihr Erspartes in einen kostengünstigen, breit diversifizierten ETF, der eine durchschnittliche Rendite von 7,7% erwirtschaftet. 
 
@@ -52,7 +52,7 @@ Und so kann das Ergebnis aussehen:
 
 [![Beispielrechnung Zinseszinseffekt](/img/Zinseszinsen-nach-35-Jahren.png)](https://www.zinsen-berechnen.de/sparrechner.php)
 
-WOW ! So kann langsam reich werden aussehen ! Frau Zahnpasta ist mit 65 Jahren Millionärin und kann sich für den Rest ihres Ruhestands eine Menge Kreuzfahrten leisten, braucht sich keine Sorgen um ihre Versorgung im hohen Alter zu machen und kann ihren 3 Kindern und 7 Enkeln immer noch eine stattliche Summe finanzieller Mittel vererben.
+Wow, so kann langsam reich werden aussehen ! Frau Zahnpasta ist mit 65 Jahren Millionärin und kann sich für den Rest ihres Ruhestands eine Menge Kreuzfahrten leisten, braucht sich keine Sorgen um ihre Versorgung im hohen Alter zu machen und kann ihren 3 Kindern und 7 Enkeln immer noch eine stattliche Summe finanzieller Mittel vererben.
 
 Wer selbst gerne nachrechnet, bitte schön: [www.zinsen-berechnen.de](https://www.zinsen-berechnen.de/sparrechner.php)
 
@@ -60,7 +60,7 @@ Wiederholen wir noch einmal, was die wichtigsten Voraussetzungen dieser Erfolgsg
 
 * es werden monatlich 500 Euro gespart (Ergebnis aus Schritt #1 und #2 der Formel für langsames Reichwerden)
 * diese werden investiert (Schritt #3)
-* das ganze wird unermüdlich über 35 Jahre lang weitergeführt (Schritt #4)
+* das ganze wird unermüdlich über 35 Jahre lang ohne Unterbrechung weitergeführt (Schritt #4)
 
 Das Tolle daran ? Alle diese Schritte hast du selbst in der Hand ! Es heißt also: fleißig sparen, schön früh mit dem Investieren anfangen und dann einfach niemals aufhören, bis du 65 bist ! Und so wirst du sehr, sehr langsam sehr, sehr reich. 
 
@@ -72,6 +72,6 @@ Ich muss also ehrlich zugeben, dass meine Überschrift leicht reißerisch ist. I
 
 Zwei Dinge kann ich dir allerdings versprechen:
 1. Die Investorin, die vor 35 Jahren begonnen hat, 500 Euro monatlich zu investieren, ist heute entweder bereits Millionärin oder kurz davor oder besitzt sogar mittlerweile mehr als 1 Million Euro.
-2. Sollte sich die Annahme als zu positiv darstellen und die zukünftige durchschnittliche Rendite eher 7% oder sogar nur 6% werden, dann wirst du dich in 35 Jahren immer noch wie verrückt über deine 860,000 Euro oder deine 690,000 Euro freuen und mir dankbar sein, dass du langfristig monatlich 500 Euro klug investiert hast!
+2. Sollte sich die Renditeannahme als zu positiv darstellen und die zukünftige durchschnittliche Rendite eher 7% oder sogar nur 6% werden, dann wirst du dich in 35 Jahren immer noch wie verrückt über deine 860,000 Euro oder deine 690,000 Euro freuen und mir dankbar sein, dass du langfristig monatlich 500 Euro klug investiert hast!
 
 Du glaubst mir nicht ? Dann beweis mir gerne das Gegenteil. Wir sprechen uns in 35 Jahren ! Bis dahin :)
