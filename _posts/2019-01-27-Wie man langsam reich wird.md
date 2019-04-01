@@ -74,4 +74,4 @@ Zwei Dinge kann ich dir allerdings versprechen:
 1. Die Investorin, die vor 35 Jahren begonnen hat, 500 Euro monatlich zu investieren, ist heute entweder bereits Millionärin oder kurz davor oder besitzt sogar mittlerweile mehr als 1 Million Euro.
 2. Sollte sich die Annahme als zu positiv darstellen und die zukünftige durchschnittliche Rendite eher 7% oder sogar nur 6% werden, dann wirst du dich in 35 Jahren immer noch wie verrückt über deine 860,000 Euro oder deine 690,000 Euro freuen und mir dankbar sein, dass du langfristig monatlich 500 Euro klug investiert hast!
 
-Du glaubst mir nicht ? Dann beweis mir gerne das Gegenteil. Wir sprechen in 35 Jahren ! Bis dahin :)
+Du glaubst mir nicht ? Dann beweis mir gerne das Gegenteil. Wir sprechen uns in 35 Jahren ! Bis dahin :)
