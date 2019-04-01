@@ -7,7 +7,7 @@ categories: ETF, Sparen
 
 Reich werden klingt super, wer will das nicht? Aber wie wird man eigentlich reich?
 
-_Anmerkung_: Mit dem Thema _*schnell reich werden*_ à la Mark Zuckerberg, der den kleinen Sprung zum Milliardär in nur [einem kurzen Jahr](https://www.businessinsider.de/how-long-it-took-entrepreneurs-to-become-billionaires-2016-2-4?r=US&IR=T) schaffte, kenn ich mich ehrlich gesagt auch nicht aus. Darum soll es hier heute nicht gehen. 
+_Anmerkung_: Mit dem Thema _schnell reich werden_ à la Mark Zuckerberg, der den kleinen Sprung zum Milliardär in nur [einem kurzen Jahr](https://www.businessinsider.de/how-long-it-took-entrepreneurs-to-become-billionaires-2016-2-4?r=US&IR=T) schaffte, kenn ich mich ehrlich gesagt auch nicht aus. Darum soll es hier heute nicht gehen. 
 
 Dazu wie ich langsam reich werden will, habe ich einen konkreten Plan. 
 
@@ -29,9 +29,9 @@ Anschließend solltest du deine Ausgaben kritisch hinterfragen und herausstreich
 
 #### 3. Klug investieren
 
-Zum Thema Investieren gibt es genug Bücher, um eine Bibliothek damit zu füllen. 
+Zum Thema Investieren gibt es genug Bücher, um mehrere Bibliotheken damit zu füllen. 
 
-Aus meiner Sicht hat eine _kluge_ Investition die folgenden Eigenschaften:
+Aus meiner Sicht hat eine _kluge_ Investition mindestens die folgenden Eigenschaften:
 * die Kosten sind so gering wie möglich
 * die Investitionen sind möglichst stark diversifiziert 
 * der Anlagehorizont ist langfristig (>10 Jahre)
@@ -67,7 +67,7 @@ Das Tolle daran ? Alle diese Schritte hast du selbst in der Hand ! Es heißt als
 
 Abschließend sei noch etwas zu der angenommenen durchschnittlichen Rendite von 7,7% gesagt: diese Annahme ist die einzige, die du nicht selbst in der Hand hast und von der auch heute noch keiner weiß, ob sie wirklich so eintreten wird. Eine Rendite berechnet sich immer erst im Nachhinein und kann nicht vorausgesehen werden. Sie hängt davon ab, wie sich die Märkte und im Weiteren Sinne die Wirtschaft entwickelt. 
 
-Ich habe die 7,7% so gewählt, wie ein großer internationaler Index, der MSCI World, [in der Vergangenheit] (https://www.finanztip.de/presse/pm-finanztip-msci-world-rendite/) erwirtschaftet hat.
+Ich habe die 7,7% so gewählt, wie ein großer internationaler Index, der MSCI World, [in der Vergangenheit](https://www.finanztip.de/presse/pm-finanztip-msci-world-rendite/) erwirtschaftet hat.
 
 
 Ich muss also zugeben, dass meine Überschrift leicht reißerisch ist und ich dir nicht wirklich mit 100%iger Sicherheit versprechen kann, dass du definitiv mit 65 Jahren Millionärin sein wirst, wenn du die nächsten 35 Jahre lang monatlich 500 Euro sparst und investierst.
