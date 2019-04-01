@@ -7,13 +7,17 @@ categories: ETF, Sparen
 
 Reich werden klingt super, wer will das nicht? Aber wie wird man eigentlich reich?
 
-_Anmerkung_: Mit dem Thema _schnell reich werden_ à la Mark Zuckerberg, der den kleinen Sprung zum Milliardär in nur [einem kurzen Jahr](https://www.businessinsider.de/how-long-it-took-entrepreneurs-to-become-billionaires-2016-2-4?r=US&IR=T) schaffte, kenn ich mich ehrlich gesagt auch nicht aus. Darum soll es hier heute nicht gehen. 
+_Anmerkung_: Mit dem Thema _*schnell reich werden*_ à la Mark Zuckerberg, der den kleinen Sprung zum Milliardär in nur [einem kurzen Jahr](https://www.businessinsider.de/how-long-it-took-entrepreneurs-to-become-billionaires-2016-2-4?r=US&IR=T) schaffte, kenn ich mich ehrlich gesagt auch nicht aus. Darum soll es hier heute nicht gehen. 
 
 Dazu wie ich langsam reich werden will, habe ich einen konkreten Plan. 
 
 ### Die Formel für langsames Reichwerden
 
-Langsam reich werden ist eigentlich ziemlich simple. Die Formel lautet so: 1) verdiene mehr, 2) gib weniger aus und 3) investiere den Unterschied klug und 4) trink Tee und übe dich in Geduld.
+Langsam reich werden ist eigentlich ziemlich simple. Die Formel lautet so: 
+1) verdiene mehr
+2) gib weniger aus 
+3) investiere den Unterschied klug und 
+4) trink Tee und übe dich in Geduld
 
 #### 1. Mehr verdienen
 
