@@ -7,9 +7,9 @@ categories: Budget, Sparen
 
 Bestimmt hat dir schon mal jemand den gutgemeinten Tipp gegeben, ein Budget aufzustellen, um mehr Geld zu sparen?
 
-Die Idee dabei ist, dass du dein Geld in unterschiedliche Töpfe wie z.B. _Haushalt_, _Essen_, _Transport_ und _Nippes_ einteilst und für jeden Topf einen gewissen Betrag festlegst, den du pro Monat nicht überschreitest. Am Ende des Monats sollt du so mehr Geld zum Sparen übrig haben.
+Die Idee dabei ist, dass du dein Geld in unterschiedliche Töpfe wie z.B. _Haushalt_, _Essen_, _Transport_ und _Nippes_ einteilst und für jeden Topf einen gewissen Betrag festlegst, den du pro Monat nicht überschreitest. Am Ende des Monats sollst du so mehr Geld zum Sparen übrig haben.
 
-Kennt man aus Omas Trickkiste und klingt auch alles sehr einleuchtend. Ich habe dennoch kein Budget und hier sind die 3 Hauptgründe dafür:
+Kennt man aus Omas Trickkiste und klingt auch alles sehr einleuchtend. Ich habe dennoch kein Budget und hier sind meine 3 Hauptgründe dafür:
 
 
 ### 1. Es ist mir zu viel (gedanklicher) Verwaltungsaufwand
@@ -18,7 +18,7 @@ Budgetieren erfordert ein gewisses Maß an Verwaltungsaufwand.
 
 Erstens müsste ich bei diesem Vorgehen den ganzen Monat meine Ausgaben aufzeichnen und den unterschiedlichen Budgets zuordnen. Immer wenn ich Geld ausgebe, wäre das also mit (ein bisschen) Aufschreibe-und Zuordnungs-Aufwand verbunden. 
 
-Zweitens, müsste ich vor jedem Kauf schauen, wie viel verfügbares Budget in den einzelnen Budget-Kategorie übrig ist und mein Kaufverhalten daran anpassen. Das kann dann schnell in komplizierte Rechnerei ausarten und zu hin und her Geschiebe zwischen den unterschiedlichen Budget Kategorien führen (Ok, ich bin zwar im Supermarkt, aber Zahnpasta gehört ja wohl eher zu Haushalt, also kann ich 3 EUR mehr für Wein ausgeben).
+Zweitens müsste ich vor jedem Kauf schauen, wie viel verfügbares Budget in den einzelnen Budget-Kategorie übrig ist und mein Kaufverhalten daran anpassen. Das kann dann schnell in komplizierte Rechnerei ausarten und zu hin und her Geschiebe zwischen den unterschiedlichen Budget Kategorien führen (Ok, ich bin zwar im Supermarkt, aber Zahnpasta gehört ja wohl eher zu Haushalt, also kann ich 3 EUR mehr für Wein ausgeben...).
 
 Das sind zwei Schritte, die ich mir am liebsten sparen würde. 
 
@@ -27,7 +27,7 @@ Das sind zwei Schritte, die ich mir am liebsten sparen würde.
 
 Budgetieren gibt mir weniger Freiheit im Umgang mit meinem Geld.  
 
-Unvorhergesehene (un)schöne Dinge passieren jederzeit, weil das Leben nun einmal so spielt. Vordefinierten Budget-Kategorien erlauben mir dabei leider kaum, auf die Spontanitäten des Alltags reagieren zu können. 
+Unvorhergesehene (un)schöne Dinge passieren jederzeit, weil das Leben nun einmal so spielt. Vordefinierten Budget-Kategorien erlauben mir dabei leider kaum, auf die Spontanitäten des Alltags zu reagieren. 
 
 Wenn z.B. jmd. spontan eine Konzertkarte für den halben Preis abzugeben hat, aber das _Spaß_-Budget leider schon ausgereizt ist, soll ich dann DIE CHANCE DES JAHRES, meine Lieblingsband doch noch zu sehen, sausen lassen?! Oder wenn mein Fahrrad kaputt geht und mein _Transport_-Budget schon verbraucht ist, soll ich dann einen Monat warten, bis ich in die Werkstatt kann?
 
@@ -35,9 +35,9 @@ Kontrolle über sein Geld haben und Sparen sind ja super Ideen, aber sie sollen 
 
 ### 3. Ein Budget stellt nicht wirklich sicher, dass ich mehr Geld spare
 
-Es ist trotz Budgets relativ einfach, mehr Geld auszugeben, als geplant war.
+Es ist trotz Budgets relativ einfach, mehr Geld auszugeben, als geplant.
 
-Wie schon unter Punkt 2 beschrieben, kommen die Dinge meistens anders, als gedacht. Und trotz ambitioniertem Budget, passiert es schnell, dass ich mehr einkaufe, als geplant war, weil ich a) mein Budget nicht im Kopf oder b) es sich dieses eine Mal um eine ABSOLUTE Ausnahme handelt und ich ab dem nächsten Monat wirklich ganz, ganz streng an mein Budget halten werde, wirklich!
+Wie schon unter Punkt 2 beschrieben, kommen die Dinge meistens anders, als gedacht. Und trotz ambitioniertem Budget, passiert es schnell, dass ich mehr einkaufe, als ursprünglich geplant, weil ich a) mein Budget nicht im Kopf habe oder es sich b) nur dieses eine Mal um eine ABSOLUTE Ausnahme handelt und ich mich ab dem nächsten Monat wirklich ganz, ganz streng an mein Budget halten werde, wirklich!!
 
 Und so hat man aus mangelnder Disziplin plötzlich am Ende des Monats ganz schnell gar nichts gespart. Trotz anfänglich hoher Motivation and untermonatlichem Verwaltungsaufwand beim Budgetieren. Mist.
 
