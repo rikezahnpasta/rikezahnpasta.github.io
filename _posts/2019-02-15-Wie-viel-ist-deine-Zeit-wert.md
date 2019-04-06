@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wie viel ist meine Zeit wert?"
+title:  "Wie viel ist deine Zeit wert?"
 date:   2019-02-15 12:09:53 +0100
 categories: ETF, Sparen
 ---
